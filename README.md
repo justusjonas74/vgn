@@ -41,4 +41,4 @@ Got any more info, details, links? Please don't hesitate to open an issue and/or
 
 * [VGN Widget](https://www.vgn.de/web-entwickler/fahrplanauskunft-fuer-ihre-website/) - Embed VGN journey planner to your website  
 * [VAG Profi-Widget](https://opendata.vag.de/dataset/widget-echtzeitauskunft) - Windows client to display departures
-* [VAG Departures](https://github.com/justusjonas74/vag-departures) - Simple React based Progressive Web App consuming [VAG Echtzeitabfahrtsmonitor API](## APIs)
+* [VAG Departures](https://github.com/justusjonas74/vag-departures) - Simple React based Progressive Web App consuming [VAG Echtzeitabfahrtsmonitor API](##APIs)
