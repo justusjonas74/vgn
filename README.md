@@ -21,6 +21,7 @@ Got any more info, details, links? Please don't hesitate to open an issue and/or
   * [Fuhrpark](https://opendata.vag.de/dataset/fuhrpark) - General information about vehicle fleet
   * [Taxis in Nürnberg](https://opendata.vag.de/dataset/geokoordinaten-taxi-warteplatze) - Geolocations of Taxi stands in Nuremberg. Offical data (Excel file)
 * [`de-stops/vgn-stops`](https://github.com/de-stops/vgn-stops) - Simple script to download all VGN stops as GTFS-compatible CSV
+* [`justusjonas74/vgn-prices`](https://github.com/justusjonas74/vgn-prices) - A simple web scraper to extract prices from www.vgn.de/tickets to JSON, CSV and Markdown. 
 
 ## APIs
 
