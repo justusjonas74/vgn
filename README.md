@@ -29,6 +29,7 @@ Got any more info, details, links? Please don't hesitate to open an issue and/or
 
 ## Libraries
 * [`derphilipp/vagquery`](https://github.com/derphilipp/vagquery) - A python library for generating and executing queries for the VAG public transport system start.vag.de
+* [`BolverBlitz/oepnv-nuremberg`](https://github.com/BolverBlitz/oepnv-nuremberg) - A pure JS library for VAG & VGN - APIs, Public Data and webscraping
 
 ## Apps
 
@@ -44,3 +45,4 @@ Got any more info, details, links? Please don't hesitate to open an issue and/or
 * [VAG Profi-Widget](https://opendata.vag.de/dataset/widget-echtzeitauskunft) - Windows client to display departures
 * [`justusjonas74/vag-departures`](https://github.com/justusjonas74/vag-departures) - Simple React based Progressive Web App consuming [VAG Echtzeitabfahrtsmonitor API](#apis)
 * [`vlewin/vgn-departures-ionic`](https://github.com/vlewin/vgn-departures-ionic) - VGN Nürnberg live transport arrivals build with awesome Ionic framework 
+* [`BolverBlitz/oepnv-nuremberg-alexa-skill`](https://github.com/BolverBlitz/oepnv-nuremberg-alexa-skill) - Alexa Skill to get all avaible data about the VGN
